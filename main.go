@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/NanXiao/stack"
 	"fmt"
+	"github.com/NanXiao/stack"
 )
 
 func main() {
