@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "3v5ClsvqF5lU/3E3c+1gf/zVeK0=",
+			"path": "github.com/NanXiao/stack",
+			"revision": "bfb214dbdb387d1c561b3b6f305ee0d8444c864b",
+			"revisionTime": "2016-04-01T05:28:44Z"
+		}
+	],
+	"rootPath": "github.com/NanXiao/playstack"
+}
